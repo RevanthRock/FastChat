@@ -19,7 +19,7 @@ const port = process.env.PORT || 5000;
 const app = express();
 
 const corsConfig = {
-  origin: "https://willowy-bienenstitch-959d66.netlify.app/",
+  origin: "https://fastchatall.netlify.app/",
   credentials: true,
 };
 
